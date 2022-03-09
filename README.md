@@ -194,7 +194,7 @@ Contract Address on Rinkeby Network
 
 - Migrations	0xbc9d7Df93c36C50dcfd7Ad4F2cd1d63233e35E94
 - Verifier	0x579E1C26e1BaF3BD0Ab2396b5BB14E110F876355
-- SolnSquareVerifier	0x7968e940c8b66A7D9468752DFd8aAb1C75f395C6
+- SolnSquareVerifier	0xe215368ae8Be05670683eAf2cD39706AeA355a5b
 
 Contract Abi's
 
